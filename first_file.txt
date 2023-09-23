@@ -1,6 +1,0 @@
-I created a new file here.
-
-Second   row.
-Third   row.
-
-Test my branch.
